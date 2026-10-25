@@ -1,16 +1,16 @@
 <div align="center">
 
-# Warrior Cats: Clans of the Forest — Cheats
+# Warrior Cats: Clans of the Forest — Trainer
 
 **Every fur pattern, marking and eye colour unlocked. Wider battle timing windows. All four Clan campaigns open. Nine lives. Larger text.**
 
 ![Version](https://img.shields.io/badge/version-1.0.0-7a9e5c?style=flat-square) ![Windows](https://img.shields.io/badge/Windows%2010%20%7C%2011-1c1c1c?style=flat-square) ![Stores](https://img.shields.io/badge/Steam%20%C2%B7%20Epic-supported-4a8c5a?style=flat-square) ![Clans](https://img.shields.io/badge/4%20campaigns-unlockable-c08a3e?style=flat-square) ![Spoilers](https://img.shields.io/badge/story%20reveals-off%20by%20default-8c5ac9?style=flat-square)
 
-> **[⬇️ Download the latest Warrior Cats cheats](../../releases/latest)**
+> **[⬇️ Download the latest Warrior Cats trainer](../../releases/latest)**
 
 <p align="center">
-    <a href="../../releases/latest/download/WarriorCats-Cheats.zip">
-        <img src="assets/banner.png" width="100%" alt="Download Warrior Cats: Clans of the Forest cheats">
+    <a href="../../releases/latest/download/WarriorCats-Trainer.zip">
+        <img src="assets/banner.png" width="100%" alt="Download Warrior Cats: Clans of the Forest trainer">
     </a>
 </p>
 
